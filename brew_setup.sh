@@ -25,4 +25,5 @@ brew cask install google-chrome
 brew cask install slack
 
 # Cleanup Section
-brew clean
+brew cleanup
+exit 0
